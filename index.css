@@ -9,13 +9,16 @@ h1{
     text-align: center;
     color:blue;
 }
+
 .about{
  background-color: rgb(226, 224, 217);
  width: 100%;
 }
+
 .port{
     padding: 20px;
 }
+
 .cont{
     background-color: rgb(226, 224, 217);
 }
