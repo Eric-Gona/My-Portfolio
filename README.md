@@ -1,8 +1,6 @@
 # PORTFOLIO
 ## Author 
 + Eric Karisa
-## Image
-![Alt text](Eric.png)
 ## Project description
 It is a webpage that desribes who I am and givees a breif description of my hobbies, educational background and also lists some of my projects.
 ## Set up installation
